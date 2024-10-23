@@ -15,6 +15,7 @@ My long-term goal is to develop intelligent machines capable of perceiving, unde
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-%231A1B27.svg?style=for-the-badge&logo=python&logoColor=A9FEF7" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-%231A1B27.svg?style=for-the-badge&logo=pytorch&logoColor=A9FEF7" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/git-%231A1B27.svg?style=for-the-badge&logo=git&logoColor=A9FEF7" alt="Git"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-%231A1B27.svg?style=for-the-badge&logo=huggingface&logoColor=A9FEF7" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/DeepSpeed-%231A1B27.svg?style=for-the-badge&logo=microsoft&logoColor=A9FEF7" alt="DeepSpeed"/>
@@ -32,8 +33,8 @@ My long-term goal is to develop intelligent machines capable of perceiving, unde
 
 <h3 align="center">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([Your LinkedIn URL](https://www.linkedin.com/in/yaxin-luo-a76037219/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([Your Twitter URL](https://twitter.com/YaxinLuo999999))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yaxin-luo-a76037219/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YaxinLuo999999)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yaxinluo999@163.com)
 
 ## 📊 GitHub Stats
