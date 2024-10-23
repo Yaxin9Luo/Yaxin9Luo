@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yaxin9Luo&theme=juicyfresh&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaxin9Luo&theme=nord&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Currently+working+on+Foundation+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Currently+working+on+GenAI" alt="Typing SVG" />
 </h2>
 
 My long-term goal is to develop intelligent machines capable of perceiving, understanding, and creating multimodal content, such as videos.
