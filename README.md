@@ -12,23 +12,25 @@
 </h2>
 
 My long-term goal is to develop intelligent machines capable of perceiving, understanding, and creating multimodal content, such as videos.
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%231A1B27.svg?style=for-the-badge&logo=python&logoColor=A9FEF7" alt="Python"/>
+  <img src="https://img.shields.io/badge/git-%231A1B27.svg?style=for-the-badge&logo=git&logoColor=A9FEF7" alt="Git"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-%231A1B27.svg?style=for-the-badge&logo=huggingface&logoColor=A9FEF7" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-%231A1B27.svg?style=for-the-badge&logo=microsoft&logoColor=A9FEF7" alt="DeepSpeed"/>
+  <img src="https://img.shields.io/badge/Transformers-%231A1B27.svg?style=for-the-badge&logo=huggingface&logoColor=A9FEF7" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Diffusers-%231A1B27.svg?style=for-the-badge&logo=huggingface&logoColor=A9FEF7" alt="Diffusers"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-%231A1B27.svg?style=for-the-badge&logo=openai&logoColor=A9FEF7" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/MATLAB-%231A1B27.svg?style=for-the-badge&logo=mathworks&logoColor=A9FEF7" alt="MATLAB"/>
 
-## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🌱 I'm currently learning ...
-
-- [Technology or skill 1]
-- [Technology or skill 2]
-- [Technology or skill 3]
-
-## 👯 I'm looking to collaborate on ...
-
-[Mention the types of projects or areas you're interested in collaborating on]
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decoration">
+</p>
 
 ## 📫 How to reach me:
+
+<h3 align="center">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([Your LinkedIn URL](https://www.linkedin.com/in/yaxin-luo-a76037219/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([Your Twitter URL](https://twitter.com/YaxinLuo999999))
@@ -37,14 +39,3 @@ My long-term goal is to develop intelligent machines capable of perceiving, unde
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaxin9Luo&show_icons=true&theme=radical)
-
-## 🎯 Fun fact
-
-[Share an interesting or fun fact about yourself]
-
-<!--
-You can uncomment and modify these ideas as needed:
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
