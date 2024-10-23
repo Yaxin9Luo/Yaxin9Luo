@@ -54,8 +54,8 @@ My long-term goal is to develop intelligent machines capable of perceiving, unde
 </p>
 <h3 align="center"> GitHub Stats</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebasif7&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7&langs_count=8&layout=compact&custom_title=Top%20Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseebasif7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxin9Luo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7&langs_count=8&layout=compact&custom_title=Top%20Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaxin9Luo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7" />
 </div>
 
 <p align="center">
