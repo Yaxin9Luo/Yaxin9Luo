@@ -17,12 +17,11 @@
 ### &nbsp;&nbsp;&nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;My long-term goal is to develop intelligent machines
-&nbsp;&nbsp;&nbsp;capable of **perceiving**, **understanding**, and **creating**
-&nbsp;&nbsp;&nbsp;multimodal content, such as videos.
+&nbsp;&nbsp;&nbsp;capable of **understanding**, **generation**, **reasoning** and **agentic action**
 
-&nbsp;&nbsp;&nbsp;Currently working on **Generative AI**
+&nbsp;&nbsp;&nbsp;Currently working on **Multimodal Foundation Model**
 
-&nbsp;&nbsp;&nbsp;Based in **Hong Kong** | PhD Researcher
+&nbsp;&nbsp;&nbsp;Based in **Abu Dhabi** | PhD Candidate
 
 </td>
 <td width="50%" valign="top">
