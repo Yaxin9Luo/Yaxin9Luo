@@ -17,7 +17,7 @@
 ### &nbsp;&nbsp;&nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;My long-term goal is to develop intelligent machines
-&nbsp;&nbsp;&nbsp;capable of **understanding**, **generation**, **reasoning** and **agentic action**
+&nbsp;&nbsp;&nbsp;capable of **understanding**, **generation**, **reasoning** and **agentic action** on multi-modality content
 
 &nbsp;&nbsp;&nbsp;Currently working on **Multimodal Foundation Model**
 
