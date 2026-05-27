@@ -16,9 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MBZUAI-ML%20PhD-00D4FF?style=flat-square&labelColor=0B1221" alt="MBZUAI ML PhD"/>
   <img src="https://img.shields.io/badge/LongCat-Research%20Intern-7C3AED?style=flat-square&labelColor=0B1221" alt="LongCat Research Intern"/>
-  <img src="https://img.shields.io/badge/NeurIPS-2025-10B981?style=flat-square&labelColor=0B1221" alt="NeurIPS 2025"/>
-  <img src="https://img.shields.io/badge/ICLR-2025-F59E0B?style=flat-square&labelColor=0B1221" alt="ICLR 2025"/>
-  <img src="https://img.shields.io/badge/ECCV-2024-EF4444?style=flat-square&labelColor=0B1221" alt="ECCV 2024"/>
 </p>
 
 ---
@@ -76,37 +73,6 @@ Selected projects I lead or contribute to have received **450 GitHub stars** and
 
 <sub>Last updated: 2026-05-27. Managed from [data/research-repos.json](data/research-repos.json).</sub>
 <!-- RESEARCH-IMPACT:END -->
-
-## Research Signals
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Agent Evaluation
-
-- [OpenCaptchaWorld](https://arxiv.org/abs/2505.24878), NeurIPS 2025
-- [Next-Gen CAPTCHAs](https://arxiv.org/abs/2602.09012), arXiv 2026
-
-</td>
-<td width="33%" valign="top">
-
-### Efficient MLLMs
-
-- [Gamma-MOD](https://arxiv.org/abs/2410.13859), ICLR 2025
-- Unified discrete vision encoders, LongCat
-
-</td>
-<td width="33%" valign="top">
-
-### Vision-Language
-
-- [APL](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_12), ECCV 2024
-- [DViN](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DViN_Dynamic_Visual_Routing_Network_for_Weakly_Supervised_Referring_Expression_CVPR_2025_paper.html), CVPR 2025
-
-</td>
-</tr>
-</table>
 
 ## Stack
 
