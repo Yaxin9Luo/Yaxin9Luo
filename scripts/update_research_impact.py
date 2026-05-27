@@ -156,7 +156,7 @@ def build_markdown(entries: list[dict[str, Any]], fetched_at: str) -> str:
             f"across **{repo_count}** personal and organization repositories."
         ),
         "",
-        "<details open>",
+        "<details>",
         "<summary><b>Tracked repositories</b></summary>",
         "",
         "| Repository | Stars | Forks | Focus |",

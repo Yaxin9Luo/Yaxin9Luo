@@ -23,28 +23,29 @@
 
 ---
 
+## Mission Control
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="33%" valign="top">
 
-### `./agent-lab --status`
+### Multimodal Agents
 
-```txt
-identity : ML PhD @ MBZUAI
-mission  : build multimodal agents that perceive, reason, generate, and act
-current  : native multimodal foundation models + long-horizon design agents
-systems  : interactive benchmarks, GUI-agent defense, editable design workflows
-```
+Models and systems that understand, generate, reason, plan, and act across modalities.
 
 </td>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 
-### `now_building`
+### Interactive Worlds
 
-- Native multimodal foundation models
-- Computer/device-use agent systems
-- Long-horizon editable design agents
-- Efficient MLLM adaptation and routing
+Benchmarks and defenses for MLLM agents operating through web and device interfaces.
+
+</td>
+<td width="34%" valign="top">
+
+### Editable Design
+
+Long-horizon agentic workflows for visual design, plotting, and multimodal content creation.
 
 </td>
 </tr>
@@ -61,8 +62,8 @@ systems  : interactive benchmarks, GUI-agent defense, editable design workflows
 Automated plotting from paper figure styles. A practical research agent for turning data into publication-style figures.
 
 <p>
-  <img src="https://img.shields.io/github/stars/VILA-Lab/FigMirror?style=flat-square&color=00D4FF&labelColor=0B1221" alt="FigMirror stars"/>
-  <img src="https://img.shields.io/github/forks/VILA-Lab/FigMirror?style=flat-square&color=7C3AED&labelColor=0B1221" alt="FigMirror forks"/>
+  <img src="https://img.shields.io/badge/research%20agent-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Research agent"/>
+  <img src="https://img.shields.io/badge/figures-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Figures"/>
   <img src="https://img.shields.io/badge/Python-0B1221?style=flat-square&logo=python&logoColor=00D4FF" alt="Python"/>
 </p>
 
@@ -74,8 +75,8 @@ Automated plotting from paper figure styles. A practical research agent for turn
 A web-based benchmark and platform for testing multimodal LLM agents on visual reasoning and interaction.
 
 <p>
-  <img src="https://img.shields.io/github/stars/MetaAgentX/OpenCaptchaWorld?style=flat-square&color=00D4FF&labelColor=0B1221" alt="OpenCaptchaWorld stars"/>
-  <img src="https://img.shields.io/github/forks/MetaAgentX/OpenCaptchaWorld?style=flat-square&color=7C3AED&labelColor=0B1221" alt="OpenCaptchaWorld forks"/>
+  <img src="https://img.shields.io/badge/agent%20benchmark-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Agent benchmark"/>
+  <img src="https://img.shields.io/badge/visual%20reasoning-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Visual reasoning"/>
   <img src="https://img.shields.io/badge/NeurIPS-2025-10B981?style=flat-square&labelColor=0B1221" alt="NeurIPS 2025"/>
 </p>
 
@@ -89,8 +90,8 @@ A web-based benchmark and platform for testing multimodal LLM agents on visual r
 Scalable and diverse GUI-agent defense built around the cognitive gap between humans and MLLM agents.
 
 <p>
-  <img src="https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=flat-square&color=00D4FF&labelColor=0B1221" alt="NextGen-CAPTCHAs stars"/>
-  <img src="https://img.shields.io/github/forks/MetaAgentX/NextGen-CAPTCHAs?style=flat-square&color=7C3AED&labelColor=0B1221" alt="NextGen-CAPTCHAs forks"/>
+  <img src="https://img.shields.io/badge/GUI%20agents-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="GUI agents"/>
+  <img src="https://img.shields.io/badge/cognitive%20gap-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Cognitive gap"/>
   <img src="https://img.shields.io/badge/GUI%20Agents-Defense-EF4444?style=flat-square&labelColor=0B1221" alt="GUI Agents Defense"/>
 </p>
 
@@ -102,8 +103,8 @@ Scalable and diverse GUI-agent defense built around the cognitive gap between hu
 Mixture-of-Depth adaptation for making multimodal large language models more efficient.
 
 <p>
-  <img src="https://img.shields.io/github/stars/Yaxin9Luo/Gamma-MOD?style=flat-square&color=00D4FF&labelColor=0B1221" alt="Gamma-MOD stars"/>
-  <img src="https://img.shields.io/github/forks/Yaxin9Luo/Gamma-MOD?style=flat-square&color=7C3AED&labelColor=0B1221" alt="Gamma-MOD forks"/>
+  <img src="https://img.shields.io/badge/efficient%20MLLMs-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Efficient MLLMs"/>
+  <img src="https://img.shields.io/badge/adaptation-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Adaptation"/>
   <img src="https://img.shields.io/badge/ICLR-2025-F59E0B?style=flat-square&labelColor=0B1221" alt="ICLR 2025"/>
 </p>
 
@@ -122,7 +123,7 @@ Mixture-of-Depth adaptation for making multimodal large language models more eff
 
 Selected projects I lead or contribute to have received **450 GitHub stars** and **24 forks** across **4** personal and organization repositories.
 
-<details open>
+<details>
 <summary><b>Tracked repositories</b></summary>
 
 | Repository | Stars | Forks | Focus |
@@ -171,22 +172,17 @@ Selected projects I lead or contribute to have received **450 GitHub stars** and
 ## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1221?style=for-the-badge&logo=python&logoColor=00D4FF" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-0B1221?style=for-the-badge&logo=pytorch&logoColor=00D4FF" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Transformers-0B1221?style=for-the-badge&logo=huggingface&logoColor=00D4FF" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/Diffusers-0B1221?style=for-the-badge&logo=huggingface&logoColor=00D4FF" alt="Diffusers"/>
-  <img src="https://img.shields.io/badge/DeepSpeed-0B1221?style=for-the-badge&logo=microsoft&logoColor=00D4FF" alt="DeepSpeed"/>
-  <img src="https://img.shields.io/badge/Docker-0B1221?style=for-the-badge&logo=docker&logoColor=00D4FF" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-0B1221?style=for-the-badge&logo=linux&logoColor=00D4FF" alt="Linux"/>
-  <img src="https://img.shields.io/badge/W%26B-0B1221?style=for-the-badge&logo=weightsandbiases&logoColor=00D4FF" alt="Weights & Biases"/>
+  <img src="https://img.shields.io/badge/Python-0B1221?style=flat-square&logo=python&logoColor=00D4FF" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-0B1221?style=flat-square&logo=pytorch&logoColor=00D4FF" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Transformers-0B1221?style=flat-square&logo=huggingface&logoColor=00D4FF" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Diffusers-0B1221?style=flat-square&logo=huggingface&logoColor=00D4FF" alt="Diffusers"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-0B1221?style=flat-square&logo=microsoft&logoColor=00D4FF" alt="DeepSpeed"/>
+  <img src="https://img.shields.io/badge/Docker-0B1221?style=flat-square&logo=docker&logoColor=00D4FF" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-0B1221?style=flat-square&logo=linux&logoColor=00D4FF" alt="Linux"/>
+  <img src="https://img.shields.io/badge/W%26B-0B1221?style=flat-square&logo=weightsandbiases&logoColor=00D4FF" alt="Weights & Biases"/>
 </p>
 
-## GitHub Telemetry
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yaxin9Luo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1221&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&ring_color=00D4FF" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxin9Luo&theme=tokyonight&hide_border=true&bg_color=0B1221&title_color=00D4FF&text_color=C9D1D9&langs_count=8&layout=compact&custom_title=Code%20Mix" alt="Top languages"/>
-</p>
+## Activity
 
 <p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yaxin9Luo&custom_title=Contribution%20Graph&bg_color=0B1221&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&area_color=123A5A" alt="Activity graph"/>
