@@ -51,67 +51,6 @@ Long-horizon agentic workflows for visual design, plotting, and multimodal conte
 </tr>
 </table>
 
-## Flagship Systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [FigMirror](https://github.com/VILA-Lab/FigMirror)
-
-Automated plotting from paper figure styles. A practical research agent for turning data into publication-style figures.
-
-<p>
-  <img src="https://img.shields.io/badge/research%20agent-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Research agent"/>
-  <img src="https://img.shields.io/badge/figures-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Figures"/>
-  <img src="https://img.shields.io/badge/Python-0B1221?style=flat-square&logo=python&logoColor=00D4FF" alt="Python"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### [OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld)
-
-A web-based benchmark and platform for testing multimodal LLM agents on visual reasoning and interaction.
-
-<p>
-  <img src="https://img.shields.io/badge/agent%20benchmark-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Agent benchmark"/>
-  <img src="https://img.shields.io/badge/visual%20reasoning-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Visual reasoning"/>
-  <img src="https://img.shields.io/badge/NeurIPS-2025-10B981?style=flat-square&labelColor=0B1221" alt="NeurIPS 2025"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs)
-
-Scalable and diverse GUI-agent defense built around the cognitive gap between humans and MLLM agents.
-
-<p>
-  <img src="https://img.shields.io/badge/GUI%20agents-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="GUI agents"/>
-  <img src="https://img.shields.io/badge/cognitive%20gap-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Cognitive gap"/>
-  <img src="https://img.shields.io/badge/GUI%20Agents-Defense-EF4444?style=flat-square&labelColor=0B1221" alt="GUI Agents Defense"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### [Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD)
-
-Mixture-of-Depth adaptation for making multimodal large language models more efficient.
-
-<p>
-  <img src="https://img.shields.io/badge/efficient%20MLLMs-0B1221?style=flat-square&labelColor=0B1221&color=00D4FF" alt="Efficient MLLMs"/>
-  <img src="https://img.shields.io/badge/adaptation-0B1221?style=flat-square&labelColor=0B1221&color=7C3AED" alt="Adaptation"/>
-  <img src="https://img.shields.io/badge/ICLR-2025-F59E0B?style=flat-square&labelColor=0B1221" alt="ICLR 2025"/>
-</p>
-
-</td>
-</tr>
-</table>
-
 ## Research Code Impact
 
 <!-- RESEARCH-IMPACT:START -->
