@@ -37,7 +37,10 @@ jobs:
 
       - name: Add repo from manual input
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.repo != '' }}
-        run: python scripts/update_research_impact.py add "${{ inputs.repo }}" --focus "${{ inputs.focus }}"
+        env:
+          INPUT_REPO: ${{ inputs.repo }}
+          INPUT_FOCUS: ${{ inputs.focus }}
+        run: python scripts/update_research_impact.py add "$INPUT_REPO" --focus "$INPUT_FOCUS"
 
       - name: Update README impact stats
         env:

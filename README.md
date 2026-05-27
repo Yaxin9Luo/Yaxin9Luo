@@ -1,65 +1,129 @@
-<h1 align="center">Yaxin Luo</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,45:123A5A,100:00D4FF&height=220&section=header&text=Yaxin%20Luo&fontSize=62&fontColor=F8FAFC&fontAlignY=36&desc=Multimodal%20Agent%20Systems%20%7C%20Native%20MLLMs%20%7C%20Research%20Code&descSize=18&descColor=9DECF9&descAlignY=58&animation=fadeIn"/>
 
 <p align="center">
-Machine Learning PhD Student at <a href="https://mbzuai.ac.ae/">MBZUAI</a><br/>
-Native Multimodal Foundation Models · Computer/Device-Use Agents · Efficient Multimodal Learning
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=860&height=72&lines=Building+agents+that+see%2C+reason%2C+design+%26+act;Benchmarking+MLLM+agents+in+interactive+worlds;Making+multimodal+systems+editable%2C+reliable+%26+efficient" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://yaxin9luo.github.io/">Homepage</a> ·
-  <a href="https://yaxin9luo.github.io/publications/">Publications</a> ·
-  <a href="https://yaxin9luo.github.io/cv/">CV</a> ·
-  <a href="https://scholar.google.com/citations?user=tEaSCzYAAAAJ&hl=en">Google Scholar</a> ·
-  <a href="https://github.com/MetaAgentX">MetaAgentX</a> ·
-  <a href="mailto:Yaxin.Luo@mbzuai.ac.ae">Email</a>
+  <a href="https://yaxin9luo.github.io/"><img src="https://img.shields.io/badge/Homepage-0B1221?style=for-the-badge&logo=safari&logoColor=00D4FF&labelColor=0B1221" alt="Homepage"/></a>
+  <a href="https://scholar.google.com/citations?user=tEaSCzYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-0B1221?style=for-the-badge&logo=googlescholar&logoColor=00D4FF&labelColor=0B1221" alt="Google Scholar"/></a>
+  <a href="https://github.com/MetaAgentX"><img src="https://img.shields.io/badge/MetaAgentX-0B1221?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0B1221" alt="MetaAgentX"/></a>
+  <a href="mailto:Yaxin.Luo@mbzuai.ac.ae"><img src="https://img.shields.io/badge/Email-0B1221?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=0B1221" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MBZUAI-ML%20PhD-00D4FF?style=flat-square&labelColor=0B1221" alt="MBZUAI ML PhD"/>
+  <img src="https://img.shields.io/badge/LongCat-Research%20Intern-7C3AED?style=flat-square&labelColor=0B1221" alt="LongCat Research Intern"/>
+  <img src="https://img.shields.io/badge/NeurIPS-2025-10B981?style=flat-square&labelColor=0B1221" alt="NeurIPS 2025"/>
+  <img src="https://img.shields.io/badge/ICLR-2025-F59E0B?style=flat-square&labelColor=0B1221" alt="ICLR 2025"/>
+  <img src="https://img.shields.io/badge/ECCV-2024-EF4444?style=flat-square&labelColor=0B1221" alt="ECCV 2024"/>
 </p>
 
 ---
 
-I study how multimodal foundation models can become reliable agents: systems that
-understand, generate, reason, plan, and act across diverse modalities. My current
-research focuses on native multimodal foundation models, long-horizon multimodal
-interactive tasks, and scalable computer/device-use agent systems.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I am currently a Research Intern at the
-<a href="https://longcat.ai/">Meituan LongCat Team</a>, working on unified
-multimodal foundation model projects with an emphasis on agentic design systems
-and unified discrete vision encoders. I am advised by
-<a href="https://zhiqiangshen.com/">Prof. Zhiqiang Shen</a> at MBZUAI.
+### `./agent-lab --status`
 
-## Research Agenda
+```txt
+identity : ML PhD @ MBZUAI
+mission  : build multimodal agents that perceive, reason, generate, and act
+current  : native multimodal foundation models + long-horizon design agents
+systems  : interactive benchmarks, GUI-agent defense, editable design workflows
+```
 
-| Direction | What I am working toward |
-| --- | --- |
-| Native multimodal foundation models | Unified understanding, generation, reasoning, planning, and action across modalities. |
-| Computer/device-use agents | Reliable and scalable agent systems for real-world interactive environments. |
-| Long-horizon design agents | Editable multimodal design systems that can plan, revise, and act over extended workflows. |
-| Efficient multimodal learning | Practical adaptation and routing methods that reduce MLLM training and inference cost. |
+</td>
+<td width="42%" valign="top">
 
-## News
+### `now_building`
 
-- **2026-02-10**: [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) is available on arXiv.
-- **2025-09-18**: [OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld) was accepted to NeurIPS 2025.
+- Native multimodal foundation models
+- Computer/device-use agent systems
+- Long-horizon editable design agents
+- Efficient MLLM adaptation and routing
 
-## Publications
+</td>
+</tr>
+</table>
 
-For the full and most up-to-date list, please see my
-[Google Scholar](https://scholar.google.com/citations?user=tEaSCzYAAAAJ&hl=en)
-or [publications page](https://yaxin9luo.github.io/publications/).
+## Flagship Systems
 
-| Year | Venue | Work |
-| --- | --- | --- |
-| 2026 | arXiv | **Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense**. [Paper](https://arxiv.org/abs/2602.09012) · [Code](https://github.com/MetaAgentX/NextGen-CAPTCHAs) · [Demo](https://huggingface.co/spaces/zcahjl3/NextGen-CAPTCHAs) · [Project](https://greenoso.github.io/NextGen-CAPTCHAs_webpage/) |
-| 2025 | NeurIPS | **OpenCaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**. [Paper](https://arxiv.org/abs/2505.24878) · [Code](https://github.com/MetaAgentX/OpenCaptchaWorld) · [Demo](https://huggingface.co/spaces/YaxinLuo/Open_CaptchaWorld) |
-| 2025 | ACL | **DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**. [Paper](https://arxiv.org/abs/2506.01954) |
-| 2025 | CVPR | **DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension**. [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DViN_Dynamic_Visual_Routing_Network_for_Weakly_Supervised_Referring_Expression_CVPR_2025_paper.html) |
-| 2025 | ICLR | **γ-MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**. [Paper](https://arxiv.org/abs/2410.13859) · [Code](https://github.com/Yaxin9Luo/gamma-MoD) |
-| 2024 | ECCV | **APL: Anchor-Based Prompt Learning for One-Stage Weakly Supervised Referring Expression Comprehension**. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_12) · [Code](https://github.com/Yaxin9Luo/APL) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [FigMirror](https://github.com/VILA-Lab/FigMirror)
+
+Automated plotting from paper figure styles. A practical research agent for turning data into publication-style figures.
+
+<p>
+  <img src="https://img.shields.io/github/stars/VILA-Lab/FigMirror?style=flat-square&color=00D4FF&labelColor=0B1221" alt="FigMirror stars"/>
+  <img src="https://img.shields.io/github/forks/VILA-Lab/FigMirror?style=flat-square&color=7C3AED&labelColor=0B1221" alt="FigMirror forks"/>
+  <img src="https://img.shields.io/badge/Python-0B1221?style=flat-square&logo=python&logoColor=00D4FF" alt="Python"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### [OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld)
+
+A web-based benchmark and platform for testing multimodal LLM agents on visual reasoning and interaction.
+
+<p>
+  <img src="https://img.shields.io/github/stars/MetaAgentX/OpenCaptchaWorld?style=flat-square&color=00D4FF&labelColor=0B1221" alt="OpenCaptchaWorld stars"/>
+  <img src="https://img.shields.io/github/forks/MetaAgentX/OpenCaptchaWorld?style=flat-square&color=7C3AED&labelColor=0B1221" alt="OpenCaptchaWorld forks"/>
+  <img src="https://img.shields.io/badge/NeurIPS-2025-10B981?style=flat-square&labelColor=0B1221" alt="NeurIPS 2025"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs)
+
+Scalable and diverse GUI-agent defense built around the cognitive gap between humans and MLLM agents.
+
+<p>
+  <img src="https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=flat-square&color=00D4FF&labelColor=0B1221" alt="NextGen-CAPTCHAs stars"/>
+  <img src="https://img.shields.io/github/forks/MetaAgentX/NextGen-CAPTCHAs?style=flat-square&color=7C3AED&labelColor=0B1221" alt="NextGen-CAPTCHAs forks"/>
+  <img src="https://img.shields.io/badge/GUI%20Agents-Defense-EF4444?style=flat-square&labelColor=0B1221" alt="GUI Agents Defense"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### [Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD)
+
+Mixture-of-Depth adaptation for making multimodal large language models more efficient.
+
+<p>
+  <img src="https://img.shields.io/github/stars/Yaxin9Luo/Gamma-MOD?style=flat-square&color=00D4FF&labelColor=0B1221" alt="Gamma-MOD stars"/>
+  <img src="https://img.shields.io/github/forks/Yaxin9Luo/Gamma-MOD?style=flat-square&color=7C3AED&labelColor=0B1221" alt="Gamma-MOD forks"/>
+  <img src="https://img.shields.io/badge/ICLR-2025-F59E0B?style=flat-square&labelColor=0B1221" alt="ICLR 2025"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ## Research Code Impact
 
 <!-- RESEARCH-IMPACT:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/research%20code%20stars-450-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
+  <img src="https://img.shields.io/badge/forks-24-7C3AED?style=for-the-badge&labelColor=0B1221" alt="Research code forks"/>
+  <img src="https://img.shields.io/badge/tracked%20repos-4-10B981?style=for-the-badge&labelColor=0B1221" alt="Tracked repositories"/>
+</p>
+
 Selected projects I lead or contribute to have received **450 GitHub stars** and **24 forks** across **4** personal and organization repositories.
+
+<details open>
+<summary><b>Tracked repositories</b></summary>
 
 | Repository | Stars | Forks | Focus |
 | --- | ---: | ---: | --- |
@@ -68,32 +132,75 @@ Selected projects I lead or contribute to have received **450 GitHub stars** and
 | [Yaxin9Luo/Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD) | 43 | 2 | Mixture-of-Depth adaptation for efficient multimodal large language models. |
 | [MetaAgentX/NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) | 20 | 0 | Scalable GUI-agent defense framework based on cognitive gaps. |
 
+</details>
+
 <sub>Last updated: 2026-05-27. Managed from [data/research-repos.json](data/research-repos.json).</sub>
 <!-- RESEARCH-IMPACT:END -->
 
-## Experience
+## Research Signals
 
-- **Research Intern**, [Meituan LongCat Team](https://longcat.ai/)<br/>
-  Apr 2026 - Present, Beijing. Working on unified multimodal foundation model
-  projects, including long-horizon multimodal interactive tasks and unified
-  discrete vision encoders.
-- **Research Assistant**, [MBZUAI](https://mbzuai.ac.ae/) / VILA Lab<br/>
-  Jan 2025 - Aug 2025, Abu Dhabi. Worked on language-pretraining-induced bias
-  for vision tasks and multimodal agent evaluation.
-- **BSc**, [Technical University of Denmark](https://www.dtu.dk/english/)<br/>
-  Earlier research in efficient deep learning, computer vision, and
-  vision-language understanding.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Toolkit
+### Agent Evaluation
 
-Python · PyTorch · Hugging Face Transformers/Diffusers · DeepSpeed · Docker ·
-Linux · Weights & Biases · Git
+- [OpenCaptchaWorld](https://arxiv.org/abs/2505.24878), NeurIPS 2025
+- [Next-Gen CAPTCHAs](https://arxiv.org/abs/2602.09012), arXiv 2026
+
+</td>
+<td width="33%" valign="top">
+
+### Efficient MLLMs
+
+- [Gamma-MOD](https://arxiv.org/abs/2410.13859), ICLR 2025
+- Unified discrete vision encoders, LongCat
+
+</td>
+<td width="33%" valign="top">
+
+### Vision-Language
+
+- [APL](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_12), ECCV 2024
+- [DViN](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DViN_Dynamic_Visual_Routing_Network_for_Weakly_Supervised_Referring_Expression_CVPR_2025_paper.html), CVPR 2025
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B1221?style=for-the-badge&logo=python&logoColor=00D4FF" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-0B1221?style=for-the-badge&logo=pytorch&logoColor=00D4FF" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Transformers-0B1221?style=for-the-badge&logo=huggingface&logoColor=00D4FF" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Diffusers-0B1221?style=for-the-badge&logo=huggingface&logoColor=00D4FF" alt="Diffusers"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-0B1221?style=for-the-badge&logo=microsoft&logoColor=00D4FF" alt="DeepSpeed"/>
+  <img src="https://img.shields.io/badge/Docker-0B1221?style=for-the-badge&logo=docker&logoColor=00D4FF" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-0B1221?style=for-the-badge&logo=linux&logoColor=00D4FF" alt="Linux"/>
+  <img src="https://img.shields.io/badge/W%26B-0B1221?style=for-the-badge&logo=weightsandbiases&logoColor=00D4FF" alt="Weights & Biases"/>
+</p>
+
+## GitHub Telemetry
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yaxin9Luo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1221&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&ring_color=00D4FF" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxin9Luo&theme=tokyonight&hide_border=true&bg_color=0B1221&title_color=00D4FF&text_color=C9D1D9&langs_count=8&layout=compact&custom_title=Code%20Mix" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yaxin9Luo&custom_title=Contribution%20Graph&bg_color=0B1221&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&area_color=123A5A" alt="Activity graph"/>
+</p>
 
 ---
 
 <p align="center">
+  <a href="https://yaxin9luo.github.io/">Homepage</a> ·
+  <a href="https://yaxin9luo.github.io/publications/">Publications</a> ·
+  <a href="https://yaxin9luo.github.io/cv/">CV</a> ·
   <a href="https://www.linkedin.com/in/Yaxin-Luo">LinkedIn</a> ·
   <a href="https://twitter.com/YaxinLuo999999">X</a> ·
-  <a href="https://scholar.google.com/citations?user=tEaSCzYAAAAJ&hl=en">Google Scholar</a> ·
   <a href="mailto:Yaxin.Luo@mbzuai.ac.ae">Yaxin.Luo@mbzuai.ac.ae</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:123A5A,100:090B10&height=110&section=footer"/>

@@ -18,6 +18,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
 
 
 START_MARKER = "<!-- RESEARCH-IMPACT:START -->"
@@ -126,12 +127,37 @@ def build_markdown(entries: list[dict[str, Any]], fetched_at: str) -> str:
     total_forks = sum(entry["forks"] for entry in entries)
     repo_count = len(entries)
 
+    stars_badge = quote(str(total_stars), safe="")
+    forks_badge = quote(str(total_forks), safe="")
+    repos_badge = quote(str(repo_count), safe="")
+
     lines = [
+        '<p align="center">',
+        (
+            '  <img src="https://img.shields.io/badge/research%20code%20stars-'
+            f'{stars_badge}-00D4FF?style=for-the-badge&labelColor=0B1221" '
+            'alt="Research code stars"/>'
+        ),
+        (
+            '  <img src="https://img.shields.io/badge/forks-'
+            f'{forks_badge}-7C3AED?style=for-the-badge&labelColor=0B1221" '
+            'alt="Research code forks"/>'
+        ),
+        (
+            '  <img src="https://img.shields.io/badge/tracked%20repos-'
+            f'{repos_badge}-10B981?style=for-the-badge&labelColor=0B1221" '
+            'alt="Tracked repositories"/>'
+        ),
+        "</p>",
+        "",
         (
             f"Selected projects I lead or contribute to have received "
             f"**{total_stars:,} GitHub stars** and **{total_forks:,} forks** "
             f"across **{repo_count}** personal and organization repositories."
         ),
+        "",
+        "<details open>",
+        "<summary><b>Tracked repositories</b></summary>",
         "",
         "| Repository | Stars | Forks | Focus |",
         "| --- | ---: | ---: | --- |",
@@ -144,6 +170,8 @@ def build_markdown(entries: list[dict[str, Any]], fetched_at: str) -> str:
 
     lines.extend(
         [
+            "",
+            "</details>",
             "",
             (
                 f"<sub>Last updated: {fetched_at}. "
