@@ -1,0 +1,28 @@
+{
+  "repos": [
+    {
+      "repo": "VILA-Lab/FigMirror",
+      "focus": "Automated plotting from paper figure styles.",
+      "fallback_stars": 315,
+      "fallback_forks": 19
+    },
+    {
+      "repo": "MetaAgentX/OpenCaptchaWorld",
+      "focus": "Web-based benchmark and platform for evaluating multimodal LLM agents.",
+      "fallback_stars": 72,
+      "fallback_forks": 3
+    },
+    {
+      "repo": "Yaxin9Luo/Gamma-MOD",
+      "focus": "Mixture-of-Depth adaptation for efficient multimodal large language models.",
+      "fallback_stars": 43,
+      "fallback_forks": 2
+    },
+    {
+      "repo": "MetaAgentX/NextGen-CAPTCHAs",
+      "focus": "Scalable GUI-agent defense framework based on cognitive gaps.",
+      "fallback_stars": 20,
+      "fallback_forks": 0
+    }
+  ]
+}
