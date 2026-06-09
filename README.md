@@ -52,26 +52,26 @@ Long-horizon agentic workflows for visual design, plotting, and multimodal conte
 
 <!-- RESEARCH-IMPACT:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/research%20code%20stars-582-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
+  <img src="https://img.shields.io/badge/research%20code%20stars-584-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
   <img src="https://img.shields.io/badge/forks-31-7C3AED?style=for-the-badge&labelColor=0B1221" alt="Research code forks"/>
   <img src="https://img.shields.io/badge/tracked%20repos-4-10B981?style=for-the-badge&labelColor=0B1221" alt="Tracked repositories"/>
 </p>
 
-Selected projects I lead or contribute to have received **582 GitHub stars** and **31 forks** across **4** personal and organization repositories.
+Selected projects I lead or contribute to have received **584 GitHub stars** and **31 forks** across **4** personal and organization repositories.
 
 <details>
 <summary><b>Tracked repositories</b></summary>
 
 | Repository | Stars | Forks | Focus |
 | --- | ---: | ---: | --- |
-| [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) | 445 | 26 | Automated plotting from paper figure styles. |
+| [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) | 447 | 26 | Automated plotting from paper figure styles. |
 | [MetaAgentX/OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld) | 74 | 3 | Web-based benchmark and platform for evaluating multimodal LLM agents. |
 | [Yaxin9Luo/Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD) | 43 | 2 | Mixture-of-Depth adaptation for efficient multimodal large language models. |
 | [MetaAgentX/NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) | 20 | 0 | Scalable GUI-agent defense framework based on cognitive gaps. |
 
 </details>
 
-<sub>Last updated: 2026-06-08. Managed from [data/research-repos.json](data/research-repos.json).</sub>
+<sub>Last updated: 2026-06-09. Managed from [data/research-repos.json](data/research-repos.json).</sub>
 <!-- RESEARCH-IMPACT:END -->
 
 ## Stack
