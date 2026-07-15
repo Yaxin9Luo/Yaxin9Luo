@@ -71,7 +71,7 @@ Selected projects I lead or contribute to have received **640 GitHub stars** and
 
 </details>
 
-<sub>Last updated: 2026-07-14. Managed from [data/research-repos.json](data/research-repos.json).</sub>
+<sub>Last updated: 2026-07-15. Managed from [data/research-repos.json](data/research-repos.json).</sub>
 <!-- RESEARCH-IMPACT:END -->
 
 ## Stack
