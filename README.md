@@ -52,12 +52,12 @@ Long-horizon agentic workflows for visual design, plotting, and multimodal conte
 
 <!-- RESEARCH-IMPACT:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/research%20code%20stars-655-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
-  <img src="https://img.shields.io/badge/forks-41-7C3AED?style=for-the-badge&labelColor=0B1221" alt="Research code forks"/>
-  <img src="https://img.shields.io/badge/tracked%20repos-4-10B981?style=for-the-badge&labelColor=0B1221" alt="Tracked repositories"/>
+  <img src="https://img.shields.io/badge/research%20code%20stars-695-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
+  <img src="https://img.shields.io/badge/forks-45-7C3AED?style=for-the-badge&labelColor=0B1221" alt="Research code forks"/>
+  <img src="https://img.shields.io/badge/tracked%20repos-5-10B981?style=for-the-badge&labelColor=0B1221" alt="Tracked repositories"/>
 </p>
 
-Selected projects I lead or contribute to have received **655 GitHub stars** and **41 forks** across **4** personal and organization repositories.
+Selected projects I lead or contribute to have received **695 GitHub stars** and **45 forks** across **5** personal and organization repositories.
 
 <details>
 <summary><b>Tracked repositories</b></summary>
@@ -67,6 +67,7 @@ Selected projects I lead or contribute to have received **655 GitHub stars** and
 | [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) | 501 | 35 | Automated plotting from paper figure styles. |
 | [MetaAgentX/OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld) | 86 | 4 | Web-based benchmark and platform for evaluating multimodal LLM agents. |
 | [Yaxin9Luo/Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD) | 45 | 2 | Mixture-of-Depth adaptation for efficient multimodal large language models. |
+| [Yaxin9Luo/AutoDesign](https://github.com/Yaxin9Luo/AutoDesign) | 40 | 4 | Open-source design agent and harness for producing editable academic posters, slides, webpages, and videos. |
 | [MetaAgentX/NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) | 23 | 0 | Scalable GUI-agent defense framework based on cognitive gaps. |
 
 </details>

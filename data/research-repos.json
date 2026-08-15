@@ -23,6 +23,12 @@
       "focus": "Scalable GUI-agent defense framework based on cognitive gaps.",
       "fallback_stars": 20,
       "fallback_forks": 0
+    },
+    {
+      "repo": "Yaxin9Luo/AutoDesign",
+      "focus": "Open-source design agent and harness for producing editable academic posters, slides, webpages, and videos.",
+      "fallback_stars": 40,
+      "fallback_forks": 4
     }
   ]
 }
