@@ -52,27 +52,27 @@ Long-horizon agentic workflows for visual design, plotting, and multimodal conte
 
 <!-- RESEARCH-IMPACT:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/research%20code%20stars-881-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
+  <img src="https://img.shields.io/badge/research%20code%20stars-884-00D4FF?style=for-the-badge&labelColor=0B1221" alt="Research code stars"/>
   <img src="https://img.shields.io/badge/forks-55-7C3AED?style=for-the-badge&labelColor=0B1221" alt="Research code forks"/>
   <img src="https://img.shields.io/badge/tracked%20repos-5-10B981?style=for-the-badge&labelColor=0B1221" alt="Tracked repositories"/>
 </p>
 
-Selected projects I lead or contribute to have received **881 GitHub stars** and **55 forks** across **5** personal and organization repositories.
+Selected projects I lead or contribute to have received **884 GitHub stars** and **55 forks** across **5** personal and organization repositories.
 
 <details>
 <summary><b>Tracked repositories</b></summary>
 
 | Repository | Stars | Forks | Focus |
 | --- | ---: | ---: | --- |
-| [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) | 511 | 38 | Automated plotting from paper figure styles. |
-| [Yaxin9Luo/AutoDesign](https://github.com/Yaxin9Luo/AutoDesign) | 210 | 10 | Open-source design agent and harness for producing editable academic posters, slides, webpages, and videos. |
+| [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) | 510 | 38 | Automated plotting from paper figure styles. |
+| [Yaxin9Luo/AutoDesign](https://github.com/Yaxin9Luo/AutoDesign) | 214 | 10 | Open-source design agent and harness for producing editable academic posters, slides, webpages, and videos. |
 | [MetaAgentX/OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld) | 90 | 4 | Web-based benchmark and platform for evaluating multimodal LLM agents. |
 | [Yaxin9Luo/Gamma-MOD](https://github.com/Yaxin9Luo/Gamma-MOD) | 46 | 3 | Mixture-of-Depth adaptation for efficient multimodal large language models. |
 | [MetaAgentX/NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) | 24 | 0 | Scalable GUI-agent defense framework based on cognitive gaps. |
 
 </details>
 
-<sub>Last updated: 2026-09-11. Managed from [data/research-repos.json](data/research-repos.json).</sub>
+<sub>Last updated: 2026-09-12. Managed from [data/research-repos.json](data/research-repos.json).</sub>
 <!-- RESEARCH-IMPACT:END -->
 
 ## Stack
