@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="197" height="44" viewBox="0 0 197 44" role="img" aria-label="Google Scholar"><title>Google Scholar</title><style>@font-face{font-family:'SM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAXUABEAAAAACkwAAAV3AAIBBgAAAAAAAAAAAAAAAAAAAAAAAAAAGYFkG4IwHEIGYD9TVEFUKgB8EQgKiFCHIwE2AiQDMAsaAAQgBVAHIBckGBobXghRlFHOoBQ/D2MiU4s9hrLuckssMZSgLUNEXdvPxxeDnN/iodjvf2f33u+GJobphGSSCMUlQTWpJBELhdRUI9S3P8+u/s+tRrXmCFq4HigMPowSAKwG+/k/lvrjOsEqwO55k51FtkUuGmTT4TBKeFoBljiczaNB9gaoO3KXfS8FLluPUkAyDAHYjsBetaa+HcQ7Jo8ZBtY9Y/oPBeve3iMGg/hA7xG9QXyw97gRYMUGSIQqQnK7sAEahAx5SqyA10vT4E3cBKguIBQh9u0Y0MdbPu63Cds/ZuTwEVrtaRk5VfhSYhmtO9jVdU+AEMBJlwHTspAQPXRg15gRYNaPjdiIjdiIjVwjrBLKxkPQgk/z+aRtCOChW0gc4ar1F1q/vtevtOCzF+cdmwSr/syqXwAJufo4X5oQDAVmlyOxcYAWhgvHgvDwIQzi4pB3X2FUENizvRmAc8JyLMdyLOfLcb17dBHa5pP4QxfIS9kJ2Dh7SmymjxDIASwkxZVh+Sp/E3jVGNOMqgugvRA1lOO5OD8EQMiuIFxcZHJ8XQtgx/cMGocQgIQAMYz+AAk0wCSc73cSBgHTcuDYakS06a2v/gYZZqQxVWBJA3+K+lRX63Xdq7t1p27XjbpWVyCdQUBVRtAGlWcBOIwDIM5vRcvl8+M4cA8vEqirqKoKrjEntzA3Nye/95JUCs1Op9PU0qSr/UiKXJJIwGSSWvpUgUhEYdcShKVW5jq8JI1mn3hipi/weSN0ZRxefyzquNz2YSLRIbbFbDlzg6BipY/SXyYJSD55KUEvfelAicQ1n+t3R0BmdKXecS1B4xUxuKkgY3e1+FKiS+bsFLnkGSV407nrQAdOTGoSdETq5POFFJCbT9u0L7nkgnjdIXiZopYaKemy9OrZ5JkrWfLSKVDm9OXOS9M3009IcsqhY5OTFIeC9pvKxwCJz77jf+gzJ9ax5EUKsShi1mFq6cbijnX7XPA6L6GXvkwnU2+y8Ctnks8pnlIHdZaqvb+wfcMB3H9ioh1bntlnS+dOhyd3MS7v1meaId44xIa5YlciYlNwQMA6lWFMMwYG6vl3ao6t7vW/JzhRB3r1C2z8QNOEARqzP2xT89+pq+qvcAe1yrjZ7uo63Bj2jdUtscfUjXydzadX1JQMedpPfjpgEMUsDlevsXZ4hyYqkUW0nbf1OpqXXXhLpmiqNckbbodqmgoUIcYsHxiv67GCaGKUWV2Fr6oXNHN78ldUy/LBrG58MDSra7e6WVMDUVOD4D1rvO2vCnVEK6Xtdgkd0qgE1+Zp6lu688GpbnIwMqtrQDYkEu8s0cT6eg3jGnPV8v4BZTwq1Yj+fCOJdupW+6aVG3Y3OPmnpT7I799Tc1Ir2E4TDc9qa/uNJO4r6nRue6deKlvJgi/vMoM+MVQ7ze3dlba8RUVPeAUlw00Devd1h00hZpah/eeK/8+JRGe+r6z8/swS0b3vkaV7daHyaaUCq76twJA/unOBtEEFzMKxb4lhyzr01k7NowZ3GVsfuaYT7wsugEdD8vFCr3Lr2N3FGEmMOppJX04xDAWPBaOzunaLzpoQCOq7iyMx2ZBQ1+isccFAT8XPtbTdXkt/olB+Mn/oPwOztAevTyY22VUF5+9N9PtibG5tzFjqowEggAy2r04/7Znt/M/F8W8Ab18LDwLw/RezGFTVZ0JTCXTDAAK0FzqfgNBJAzprQLrQIP60/XwK8g1r9qJKD0uyQJvmVtdPk8MxIf8+OZA2NmMgYFAHHCAEBzXkcKjlASYLAGoIQYYsmFUp0/p9hcanoPffiNHfYAMNMk6D/voZbLzhcAB1ml44NUahf52MlTpuq5PtQCBgtKE5ak7JCCdFm3sGAA==) format('woff2');}
+@media (prefers-reduced-motion: no-preference){
+.ants{stroke-dasharray:6 5;animation:ants 1.2s linear infinite}
+@keyframes ants{to{stroke-dashoffset:-22}}
+.caret{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.curD{animation:curD 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curD{0%,12%{transform:translate(0,0)}30%,46%{transform:translate(-24px,4px)}62%,80%{transform:translate(-8px,10px)}100%{transform:translate(0,0)}}
+.curC{animation:curC 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curC{0%,20%{transform:translate(0,0)}38%,58%{transform:translate(-50px,14px)}76%,90%{transform:translate(-20px,-12px)}100%{transform:translate(0,0)}}
+.pop{transform-box:fill-box;transform-origin:0% 100%;animation:pop 9s ease-in-out infinite}
+@keyframes pop{0%,60%{transform:scale(1)}64%{transform:scale(1.08)}68%,100%{transform:scale(1)}}
+.chipA{animation:chip 9s ease-in-out infinite}
+@keyframes chip{0%,26%{opacity:1}31%,44%{opacity:.35}50%,100%{opacity:1}}
+.tok{animation:mv 7s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes mv{from{offset-distance:0%}to{offset-distance:100%}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.8s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.55}100%{transform:scale(2.4);opacity:0}}
+.d1{animation-delay:-.0s}.d2{animation-delay:-.9s}.d3{animation-delay:-1.8s}.d4{animation-delay:-2.4s}
+.up{animation:up 3.2s linear infinite}
+@keyframes up{from{transform:translateY(0)}to{transform:translateY(-150px)}}
+.skip{animation:skip 3.2s linear infinite}
+@keyframes skip{0%{transform:translate(0,0)}35%{transform:translate(0,-52px)}50%{transform:translate(26px,-78px)}65%{transform:translate(0,-104px)}100%{transform:translate(0,-150px)}}
+.hop{animation:hop 6s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes hop{0%,10%{transform:translate(0,0)}22%,34%{transform:translate(60px,0)}46%,58%{transform:translate(60px,60px)}70%,82%{transform:translate(120px,60px)}94%,100%{transform:translate(0,0)}}
+.flash{animation:flash 6s steps(1) infinite}
+@keyframes flash{0%,24%{opacity:0}25%,100%{opacity:1}}
+.flash2{animation:flash2 6s steps(1) infinite}
+@keyframes flash2{0%,48%{opacity:0}49%,100%{opacity:1}}
+.flash3{animation:flash3 6s steps(1) infinite}
+@keyframes flash3{0%,72%{opacity:0}73%,100%{opacity:1}}
+.build{transform-box:fill-box;transform-origin:left center;animation:build 6s ease-in-out infinite}
+@keyframes build{0%,8%{transform:scaleX(1)}20%{transform:scaleX(.35)}45%,100%{transform:scaleX(1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-5px)}}
+.hl{animation:hl 9s steps(1) infinite}
+@keyframes hl{0%,33%{opacity:1}33.4%,100%{opacity:0}}
+}
+</style><rect x="1.0" y="1.0" width="195.0" height="42.0" rx="21" fill="#171831" stroke="#2E3150" stroke-width="1.4"/>
+<g transform="translate(24 22)"><path d="M-8 -2 L0 -6 L8 -2 L0 2 Z M-4.5 0 V4.5 Q0 7.5 4.5 4.5 V0" fill="none" stroke="#8B85FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="42.0" y="27.5" font-family="SM" font-size="16" font-weight="500" font-style="normal" fill="#F2F2FA">Google Scholar</text>
+<path d="M170 26 l7 -7 m-5 0 h5 v5" fill="none" stroke="#70748F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>

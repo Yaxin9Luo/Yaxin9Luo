@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="44" viewBox="0 0 101 44" role="img" aria-label="CV"><title>CV</title><style>@font-face{font-family:'SM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAALMABEAAAAABXwAAAJvAAIBBgAAAAAAAAAAAAAAAAAAAAAAAAAAGYFkG4EMHEIGYD9TVEFUKgBEEQgKgRyBJwE2AiQDEAsKAAQgBVAHIBckGAobVgTIHoNts3mMw5BccolkjXW4XhFIa1UlPUdPQMIRCM+gSBEqjcK+0MwS5W98aD/3bv8jbhM9zGRimjAJlWaVUKwSRxSP1K89POTtdbt3vh+NxzMZWgUUZnEaSMCd/0ADCWSaBh4lHlgXCPXpIEhME0STzOSX9EsKYYRjgH1Y/Zu2TCygdr/fYULLYYfaiJYjcosetcflFjlqT8hdFrSIBakzSzWuS7Gg6YwwTr5zTN0XwrQdPEjdwpqEPbpfo4Ch68eE6R1Ws2UqJUZ1qUpvkeTmsf6yw5cgEM4jmCTVMGEdcvygw4KmUSgUCoWeT3EQxoHAHJAWYLECxdGol5X6ZYA32pNSEywjpBSVFesRcBwuXLhwHVd8PqrQtQ/xVx95J1fAztiNXaQxCDk8uQr3Zv2mvmn0KLfUbHULultRDgJydr5ijlghDApMQDAD59xhnYsQpIAYFX9BomECRmAC1howaFBijn5LVfQ19bHUPQRAiCqjQQcGkVgFtgLouu2cUfI7z0iTy8//N+nu086F22eJd55EcenpS9Ld592L99GkXcNXHz2VJN09l60nbVxMGTwrXZVLTtfXZGerCr9saEDfnN05+jxUze/Z6W8KLi/LItv9vdIpLtO1/cnWhN9vH0FTWFhsF8V0z7ALjWHv3wdAIKP/wpKS3e20jn/xTPsBbx5WXwF8+7l8VL36nZr8R78EQXer90H7UYj/Iwh8etd+OOCTvKEl56on0JmDAOdAswwjuiFpFBlFGGGUHPWJ08xR03IzkXNYpqanpeMySU1Fz82MAeoqKerGGORvL3n/JlcYWgSkCKy1M0V5AQA=) format('woff2');}
+@media (prefers-reduced-motion: no-preference){
+.ants{stroke-dasharray:6 5;animation:ants 1.2s linear infinite}
+@keyframes ants{to{stroke-dashoffset:-22}}
+.caret{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.curD{animation:curD 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curD{0%,12%{transform:translate(0,0)}30%,46%{transform:translate(-24px,4px)}62%,80%{transform:translate(-8px,10px)}100%{transform:translate(0,0)}}
+.curC{animation:curC 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curC{0%,20%{transform:translate(0,0)}38%,58%{transform:translate(-50px,14px)}76%,90%{transform:translate(-20px,-12px)}100%{transform:translate(0,0)}}
+.pop{transform-box:fill-box;transform-origin:0% 100%;animation:pop 9s ease-in-out infinite}
+@keyframes pop{0%,60%{transform:scale(1)}64%{transform:scale(1.08)}68%,100%{transform:scale(1)}}
+.chipA{animation:chip 9s ease-in-out infinite}
+@keyframes chip{0%,26%{opacity:1}31%,44%{opacity:.35}50%,100%{opacity:1}}
+.tok{animation:mv 7s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes mv{from{offset-distance:0%}to{offset-distance:100%}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.8s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.55}100%{transform:scale(2.4);opacity:0}}
+.d1{animation-delay:-.0s}.d2{animation-delay:-.9s}.d3{animation-delay:-1.8s}.d4{animation-delay:-2.4s}
+.up{animation:up 3.2s linear infinite}
+@keyframes up{from{transform:translateY(0)}to{transform:translateY(-150px)}}
+.skip{animation:skip 3.2s linear infinite}
+@keyframes skip{0%{transform:translate(0,0)}35%{transform:translate(0,-52px)}50%{transform:translate(26px,-78px)}65%{transform:translate(0,-104px)}100%{transform:translate(0,-150px)}}
+.hop{animation:hop 6s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes hop{0%,10%{transform:translate(0,0)}22%,34%{transform:translate(60px,0)}46%,58%{transform:translate(60px,60px)}70%,82%{transform:translate(120px,60px)}94%,100%{transform:translate(0,0)}}
+.flash{animation:flash 6s steps(1) infinite}
+@keyframes flash{0%,24%{opacity:0}25%,100%{opacity:1}}
+.flash2{animation:flash2 6s steps(1) infinite}
+@keyframes flash2{0%,48%{opacity:0}49%,100%{opacity:1}}
+.flash3{animation:flash3 6s steps(1) infinite}
+@keyframes flash3{0%,72%{opacity:0}73%,100%{opacity:1}}
+.build{transform-box:fill-box;transform-origin:left center;animation:build 6s ease-in-out infinite}
+@keyframes build{0%,8%{transform:scaleX(1)}20%{transform:scaleX(.35)}45%,100%{transform:scaleX(1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-5px)}}
+.hl{animation:hl 9s steps(1) infinite}
+@keyframes hl{0%,33%{opacity:1}33.4%,100%{opacity:0}}
+}
+</style><rect x="1.0" y="1.0" width="99.0" height="42.0" rx="21" fill="#171831" stroke="#2E3150" stroke-width="1.4"/>
+<g transform="translate(24 22)"><path d="M-5 -7 H2 L6 -3 V7 H-5 Z M2 -7 V-3 H6 M-2.5 1 H3.5 M-2.5 4 H3.5" fill="none" stroke="#8B85FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="42.0" y="27.5" font-family="SM" font-size="16" font-weight="500" font-style="normal" fill="#F2F2FA">CV</text>
+<path d="M74 26 l7 -7 m-5 0 h5 v5" fill="none" stroke="#70748F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>

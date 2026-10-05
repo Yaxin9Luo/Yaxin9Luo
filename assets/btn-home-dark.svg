@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="44" viewBox="0 0 164 44" role="img" aria-label="Homepage"><title>Homepage</title><style>@font-face{font-family:'SM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAATgABEAAAAACKgAAASCAAIBBgAAAAAAAAAAAAAAAAAAAAAAAAAAGYFkG4FEHEIGYD9TVEFUKgBkEQgKhkyFRwE2AiQDJAsUAAQgBVAHIBckGBQb7AZRVG8WoPjiIFMZLC/a4lAOERG12rG4WNQiNlurr92/N5/Ms3iI9vvfmdl99xtmkl2rS4NIFAuVRiUTCYVQzPuj/h3+Pe1lczKIBdNOTMlBGZkBui9SxYlfZP67IjaggNXMarCf/2vq/+8So0FmMxnZrAqkKCpAhjuRBVm1QGHb6UZ6YOe0YdvoNPN5nh8phDFuArjISrd7r0QDoi51t9aD+GutFXUg/jreWAOibuGNOIi6jRONIF4HUjXPEqu8ZgOKaoxJZnjJsq2PZTmoA9RiZZp641JlKegnfpsw/NamhsZdTW2whZpnkWyZMZH3uuayj4CA4MNTmGacYWGTuHWltRFw90dQBEVQBEVQGpXhMCsvUvk0v5d2ssJhBaz1YEX7UCvb1xHse//2T6EYRKh6UlWE6JV10tEOi989JsfA2yEkhISQEBJLMug49zHU8jX6euTTzAEcqtTEWazAgBxJbAg4bcfuTDlIF+J+aW4B9XGEGKmTcn4+wwKdEAYFpgjMkQ+uVRMQhBQQ46IPEgVTFIEpquOACSYoWGA/XIUqDZqbdtD02/bNu7a+rWmr27K2FCTcKkRjPBgCkzCWmE7cAEAFEFIq1T2MmTcSMIhOcI1wdfF0RnojObaM1OEyJi/QzphM0LBZv3z/aXjGEK/bYTYjs0YjCA6Djxp0s3eSIIPhJLfw4c5BaUs9HNYhS0vgBlk7uCPPcdgEz9w0CHA/cyEJ2ry7CEdD2+dZyN6HPBEAL9sHGAzwzOGohVuBYwgya2zeO2/2xAFoeP9xeOboXmDfsdxZ85kYvg4PJ7furDYi1ogWObO5n5qrAMGWw+fhmZvJ0nFEB7GvLelm75hJ033yrqHHeEtri4QiJ0Y5zpI3JWpB/lD/7YXat13DXxHUJCqR/3V5khw8RBdEx/IZuStLdrg5e56NJctDOSTpOSxE7kHG9FxSlUhctMBKrqc45UfcDZ5Q2BWHLQiOdQfJxN3Z/KH8rNhavig3mi4sS2cTMlcaqSKLIhLE0CN/3o8W5BSE3lfZ8VKlyWH7YjKA+8yqkD2M8FU6K+nN0NDyJqtLZDEzNTGnhJrgM/Hugr76JTs4masppCS4TXldt/fwaeBU4mWpPA6mH2JrPgf8PxgZuf99YOD7/fxsF9/HbGBi/n2+4fEstQfbvSXXI0ZKBfroInupBUeFoil8NHhWF8/WqZpr8ggJ/yQ94ELkRBudxvB/4DkBJrsjWzCUX5Bt3ZGVzSqM4gtja7F8wRCRnVVM/hyqS0wE8Zdkykutfz6DP7cpWmkh1ZLpGI4x+7RFmeN1WGqEMCTQonB/BzPmY0ROeqKfqo8W8jLU8Z8RCAQyuq8f/icWOyf/HyzlL3x8G/EG4Pc/fehtqJzLV+gkCOrj0ZeUv9YbX86BOO9QvwZc9or85UKm2Z5cGzITveyhzyqM7KAHYcgZliDAZcUqRdQhaRwtRhHGGAfHaeIsJ1Wo0q4erpVehRpVqhGkKpSr0a6BJdBGscDamCD6o2NuZ/5VG65VgIBhGQPuD0RyBAAA) format('woff2');}
+@media (prefers-reduced-motion: no-preference){
+.ants{stroke-dasharray:6 5;animation:ants 1.2s linear infinite}
+@keyframes ants{to{stroke-dashoffset:-22}}
+.caret{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.curD{animation:curD 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curD{0%,12%{transform:translate(0,0)}30%,46%{transform:translate(-24px,4px)}62%,80%{transform:translate(-8px,10px)}100%{transform:translate(0,0)}}
+.curC{animation:curC 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curC{0%,20%{transform:translate(0,0)}38%,58%{transform:translate(-50px,14px)}76%,90%{transform:translate(-20px,-12px)}100%{transform:translate(0,0)}}
+.pop{transform-box:fill-box;transform-origin:0% 100%;animation:pop 9s ease-in-out infinite}
+@keyframes pop{0%,60%{transform:scale(1)}64%{transform:scale(1.08)}68%,100%{transform:scale(1)}}
+.chipA{animation:chip 9s ease-in-out infinite}
+@keyframes chip{0%,26%{opacity:1}31%,44%{opacity:.35}50%,100%{opacity:1}}
+.tok{animation:mv 7s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes mv{from{offset-distance:0%}to{offset-distance:100%}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.8s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.55}100%{transform:scale(2.4);opacity:0}}
+.d1{animation-delay:-.0s}.d2{animation-delay:-.9s}.d3{animation-delay:-1.8s}.d4{animation-delay:-2.4s}
+.up{animation:up 3.2s linear infinite}
+@keyframes up{from{transform:translateY(0)}to{transform:translateY(-150px)}}
+.skip{animation:skip 3.2s linear infinite}
+@keyframes skip{0%{transform:translate(0,0)}35%{transform:translate(0,-52px)}50%{transform:translate(26px,-78px)}65%{transform:translate(0,-104px)}100%{transform:translate(0,-150px)}}
+.hop{animation:hop 6s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes hop{0%,10%{transform:translate(0,0)}22%,34%{transform:translate(60px,0)}46%,58%{transform:translate(60px,60px)}70%,82%{transform:translate(120px,60px)}94%,100%{transform:translate(0,0)}}
+.flash{animation:flash 6s steps(1) infinite}
+@keyframes flash{0%,24%{opacity:0}25%,100%{opacity:1}}
+.flash2{animation:flash2 6s steps(1) infinite}
+@keyframes flash2{0%,48%{opacity:0}49%,100%{opacity:1}}
+.flash3{animation:flash3 6s steps(1) infinite}
+@keyframes flash3{0%,72%{opacity:0}73%,100%{opacity:1}}
+.build{transform-box:fill-box;transform-origin:left center;animation:build 6s ease-in-out infinite}
+@keyframes build{0%,8%{transform:scaleX(1)}20%{transform:scaleX(.35)}45%,100%{transform:scaleX(1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-5px)}}
+.hl{animation:hl 9s steps(1) infinite}
+@keyframes hl{0%,33%{opacity:1}33.4%,100%{opacity:0}}
+}
+</style><rect x="1.0" y="1.0" width="162.0" height="42.0" rx="21" fill="#8B85FF" stroke="#8B85FF" stroke-width="1.4"/>
+<g transform="translate(24 22)"><path d="M-7 1 L0 -6 L7 1 M-5 -1 V7 H5 V-1" fill="none" stroke="#0F1020" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="42.0" y="27.5" font-family="SM" font-size="16" font-weight="500" font-style="normal" fill="#0F1020">Homepage</text>
+<path d="M137 26 l7 -7 m-5 0 h5 v5" fill="none" stroke="#0F1020" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
