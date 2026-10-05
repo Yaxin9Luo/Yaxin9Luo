@@ -1,34 +1,116 @@
 {
-  "repos": [
+  "portfolio_url": "https://raw.githubusercontent.com/Yaxin9Luo/Yaxin9Luo.github.io/master/_data/portfolio.json",
+  "publications_page": "https://yaxin9luo.github.io/#section/publications",
+  "featured": [
     {
-      "repo": "VILA-Lab/FigMirror",
-      "focus": "Automated plotting from paper figure styles.",
-      "fallback_stars": 315,
-      "fallback_forks": 19
-    },
-    {
-      "repo": "MetaAgentX/OpenCaptchaWorld",
-      "focus": "Web-based benchmark and platform for evaluating multimodal LLM agents.",
-      "fallback_stars": 72,
-      "fallback_forks": 3
-    },
-    {
-      "repo": "Yaxin9Luo/Gamma-MOD",
-      "focus": "Mixture-of-Depth adaptation for efficient multimodal large language models.",
-      "fallback_stars": 43,
-      "fallback_forks": 2
-    },
-    {
-      "repo": "MetaAgentX/NextGen-CAPTCHAs",
-      "focus": "Scalable GUI-agent defense framework based on cognitive gaps.",
-      "fallback_stars": 20,
-      "fallback_forks": 0
-    },
-    {
+      "phase": "03 · Post-training",
+      "name": "AutoDesign",
       "repo": "Yaxin9Luo/AutoDesign",
-      "focus": "Open-source design agent and harness for producing editable academic posters, slides, webpages, and videos.",
-      "fallback_stars": 40,
-      "fallback_forks": 4
+      "venue": "arXiv 2026",
+      "role": "first author",
+      "focus": "Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.",
+      "fallback_stars": 231
+    },
+    {
+      "phase": "03 · Post-training",
+      "name": "FigMirror",
+      "repo": "VILA-Lab/FigMirror",
+      "venue": "open source",
+      "role": "contributor",
+      "focus": "Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.",
+      "fallback_stars": 521
+    },
+    {
+      "phase": "02 · Eval",
+      "name": "Open CaptchaWorld",
+      "repo": "MetaAgentX/OpenCaptchaWorld",
+      "venue": "NeurIPS 2025",
+      "role": "first author",
+      "focus": "Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.",
+      "fallback_stars": 92
+    },
+    {
+      "phase": "02 · Eval",
+      "name": "Next-Gen CAPTCHAs",
+      "repo": "MetaAgentX/NextGen-CAPTCHAs",
+      "venue": "ICML 2026",
+      "role": "co-first author",
+      "focus": "Scalable GUI-agent defense built on the cognitive gap between humans and agents.",
+      "fallback_stars": 24
+    },
+    {
+      "phase": "01 · Multimodal",
+      "name": "γ-MoD",
+      "repo": "Yaxin9Luo/gamma-MoD",
+      "venue": "ICLR 2025",
+      "role": "first author",
+      "focus": "Mixture-of-depth adaptation that skips redundant layers in multimodal LLMs.",
+      "fallback_stars": 46
+    }
+  ],
+  "publications": [
+    {
+      "id": "autodesign",
+      "role": "first author",
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "venue": "arXiv",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2608.13560"
+    },
+    {
+      "id": "nextgen-captchas",
+      "role": "co-first author",
+      "title": "Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense",
+      "venue": "ICML",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2602.09012"
+    },
+    {
+      "id": "llmsurgeon",
+      "role": "first author",
+      "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "venue": "ACL",
+      "year": 2026,
+      "url": "https://aclanthology.org/2026.acl-long.1964/"
+    },
+    {
+      "id": "language-bias",
+      "role": "first author",
+      "title": "Language-Pretraining-Induced Bias: A Strong Foundation for General Vision Tasks",
+      "venue": "TMLR",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.01833"
+    },
+    {
+      "id": "opencaptchaworld",
+      "role": "first author",
+      "title": "Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents",
+      "venue": "NeurIPS",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2505.24878"
+    },
+    {
+      "id": "gamma-mod",
+      "role": "first author",
+      "title": "γ-MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models",
+      "venue": "ICLR",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2410.13859"
+    },
+    {
+      "id": "dvin",
+      "role": "co-author",
+      "title": "DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension",
+      "venue": "CVPR",
+      "year": 2025
+    },
+    {
+      "id": "apl",
+      "role": "first author",
+      "title": "APL: Anchor-Based Prompt Learning for One-Stage Weakly Supervised Referring Expression Comprehension",
+      "venue": "ECCV",
+      "year": 2024,
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-72624-8_12"
     }
   ]
 }

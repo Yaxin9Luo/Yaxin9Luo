@@ -1,61 +1,47 @@
-name: Update research impact
+name: Update README
 
 on:
   schedule:
-    - cron: "23 2 * * *"
+    - cron: "17 3 * * 1"   # weekly, Monday 03:17 UTC
   workflow_dispatch:
-    inputs:
-      repo:
-        description: "Optional repo to add before updating, in owner/repo form"
-        required: false
-        type: string
-      focus:
-        description: "Optional one-line focus for the repo"
-        required: false
-        type: string
   push:
+    branches: [main]
     paths:
       - ".github/workflows/update-research-impact.yml"
       - "data/research-repos.json"
-      - "scripts/update_research_impact.py"
+      - "scripts/update_readme.py"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Add repo from manual input
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.repo != '' }}
-        env:
-          INPUT_REPO: ${{ inputs.repo }}
-          INPUT_FOCUS: ${{ inputs.focus }}
-        run: python scripts/update_research_impact.py add "$INPUT_REPO" --focus "$INPUT_FOCUS"
-
-      - name: Update README impact stats
+      # Exits non-zero and leaves README.md untouched on any error, so nothing is committed.
+      - name: Render stars and publications
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python scripts/update_research_impact.py update
+        run: python scripts/update_readme.py
 
-      - name: Commit changes
+      - name: Commit if changed
         run: |
-          if git diff --quiet; then
-            echo "No research impact changes to commit."
+          if git diff --quiet -- README.md data/research-repos.json; then
+            echo "No changes."
             exit 0
           fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md data/research-repos.json
-          git commit -m "Update research impact stats"
+          git commit -m "Update README stars and publications"
           git push

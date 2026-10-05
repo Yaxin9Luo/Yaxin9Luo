@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="44" viewBox="0 0 125 44" role="img" aria-label="Email"><title>Email</title><style>@font-face{font-family:'SM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAOIABEAAAAABpAAAAMqAAIBBgAAAAAAAAAAAAAAAAAAAAAAAAAAGYFkG4EQHEIGYD9TVEFUKgBUEQgKgwiCTgE2AiQDHAsQAAQgBVAHIBckGBAbIwVRVE/+A/w8yNz0NGvCweFSKE3RLM5tVov8qDWHaIQDLTyKIFyDnE3ywMi21WirUOhKALZ/Py/XXvZ25u8CcYDyLmOFVmluLP9dERMQGdunv6n/3wNpUAKJx5GF8ViYhfEGjCjSjYXZBI0GcdRlAVg6txMpwvBDPw12dymE+vYCbOWt5vSZpbVA2XamyQGJu44a7ZC4e4vLCpR9W1xaoOzf0uKCRDVBUnTUXV9vqAmyor6mWnsoVzvPK8/VxqNK0VLZs82kQ77lrwnFN7mdLk25wYYzHXUV9FTf/0TNaoy+TCCc5oGWGqorDBX7djS5QKQOBAQEBLQMkhCaItAcSWswVHdF4Q19qCLJaqgpZEVIyEJSQ4AsCTRUV324BTDAAAMMnqG2RrEPJX8V//Eh3U0SYF5dGhsJYgZI9ZIkDYefMj27AjLhHMiHqyi3A4eA1Cl9js5qCqG2QHOB9tKpXZYWj0ASEA3jP4CEjOayQHPFZKC+2pKisxm0rJwVGOK4Vn3tutqoFqt5wYaEqGgEaoGGs0nPAq8ABUBIkhD5+h3rlfpNugfVaCBYbFc38PPjceVXvHDxQd2Br8SVh7+/Qfe+v8Gzbte673/VD76mxKdfVzwH1ahXNt69ifbbeoPXXC0mLypvX97ngtlWK6a2mrwV9T7cQWNXJ8Czbr7yEHj3KdV/ZsvXl1snPTfc2vD3Yj0cMmg2lV7Aky5p3ops1OKjPv0q8PGMsvs8XEU0M08sYpiLS1Qj3hWrWKHrur91urm49qauI536RIGY2kxNHOqyA4cx4rGtGFwrFNK3aUwma/HYm3Gpbjl8OGTlsx8QU1UBC9KIpQilFSDs4MrRwvrqBquspbTgitv+scfNY/gmvHafLW4ygUCKmh27r9xXNxr/f+2cf4LPzrrvwg//4m6jqn/yptwBNSUQlNuvvyL/ZJRueRMP6WZq5Z9s9wfSato0yajobE70tSq/ZxUP1NJHAgFdWV9ZlDqShoQoQn0NacNXbGspI7NWDlpNxIyszCxalDEysGrl5AVUnYaycDQW/72ufyblZWz5IhA0svJho5FqTZ8b4wEAAA==) format('woff2');}
+@media (prefers-reduced-motion: no-preference){
+.ants{stroke-dasharray:6 5;animation:ants 1.2s linear infinite}
+@keyframes ants{to{stroke-dashoffset:-22}}
+.caret{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.curD{animation:curD 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curD{0%,12%{transform:translate(0,0)}30%,46%{transform:translate(-24px,4px)}62%,80%{transform:translate(-8px,10px)}100%{transform:translate(0,0)}}
+.curC{animation:curC 9s cubic-bezier(.45,0,.25,1) infinite}
+@keyframes curC{0%,20%{transform:translate(0,0)}38%,58%{transform:translate(-50px,14px)}76%,90%{transform:translate(-20px,-12px)}100%{transform:translate(0,0)}}
+.pop{transform-box:fill-box;transform-origin:0% 100%;animation:pop 9s ease-in-out infinite}
+@keyframes pop{0%,60%{transform:scale(1)}64%{transform:scale(1.08)}68%,100%{transform:scale(1)}}
+.chipA{animation:chip 9s ease-in-out infinite}
+@keyframes chip{0%,26%{opacity:1}31%,44%{opacity:.35}50%,100%{opacity:1}}
+.tok{animation:mv 7s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes mv{from{offset-distance:0%}to{offset-distance:100%}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.8s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.55}100%{transform:scale(2.4);opacity:0}}
+.d1{animation-delay:-.0s}.d2{animation-delay:-.9s}.d3{animation-delay:-1.8s}.d4{animation-delay:-2.4s}
+.up{animation:up 3.2s linear infinite}
+@keyframes up{from{transform:translateY(0)}to{transform:translateY(-150px)}}
+.skip{animation:skip 3.2s linear infinite}
+@keyframes skip{0%{transform:translate(0,0)}35%{transform:translate(0,-52px)}50%{transform:translate(26px,-78px)}65%{transform:translate(0,-104px)}100%{transform:translate(0,-150px)}}
+.hop{animation:hop 6s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes hop{0%,10%{transform:translate(0,0)}22%,34%{transform:translate(60px,0)}46%,58%{transform:translate(60px,60px)}70%,82%{transform:translate(120px,60px)}94%,100%{transform:translate(0,0)}}
+.flash{animation:flash 6s steps(1) infinite}
+@keyframes flash{0%,24%{opacity:0}25%,100%{opacity:1}}
+.flash2{animation:flash2 6s steps(1) infinite}
+@keyframes flash2{0%,48%{opacity:0}49%,100%{opacity:1}}
+.flash3{animation:flash3 6s steps(1) infinite}
+@keyframes flash3{0%,72%{opacity:0}73%,100%{opacity:1}}
+.build{transform-box:fill-box;transform-origin:left center;animation:build 6s ease-in-out infinite}
+@keyframes build{0%,8%{transform:scaleX(1)}20%{transform:scaleX(.35)}45%,100%{transform:scaleX(1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-5px)}}
+.hl{animation:hl 9s steps(1) infinite}
+@keyframes hl{0%,33%{opacity:1}33.4%,100%{opacity:0}}
+}
+</style><rect x="1.0" y="1.0" width="123.0" height="42.0" rx="21" fill="#FFFFFF" stroke="#D9DCE8" stroke-width="1.4"/>
+<g transform="translate(24 22)"><path d="M-7 -5 H7 V5 H-7 Z M-7 -5 L0 1 L7 -5" fill="none" stroke="#4F46E5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="42.0" y="27.5" font-family="SM" font-size="16" font-weight="500" font-style="normal" fill="#15162E">Email</text>
+<path d="M98 26 l7 -7 m-5 0 h5 v5" fill="none" stroke="#8A8FA8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
