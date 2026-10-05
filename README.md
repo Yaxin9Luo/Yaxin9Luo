@@ -18,7 +18,7 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
-  <img alt="Research map. 01 Multimodal (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs. 03 Post-training (2026 onward): FigMirror and AutoDesign, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
+  <img alt="Research map. 01 Multimodal (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs, FigMirror. 03 Post-training (2026 onward): LongCat-2.5 (1.6T) and AutoDesign, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
 </picture>
 
 ### Featured work
@@ -27,12 +27,13 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 **03 · Post-training**
 
 - [**AutoDesign**](https://github.com/Yaxin9Luo/AutoDesign) ★ 232 · arXiv 2026 · *first author*<br>Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.
-- [**FigMirror**](https://github.com/VILA-Lab/FigMirror) ★ 521 · open source · *contributor*<br>Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.
+- **LongCat-2.5** · Meituan M17 · 1.6T-parameter model · *post-training contributor*<br>Large-scale post-training for agentic design: harness design, trajectory collection, Mid-Training, SFT and RFT.
 
 **02 · Eval**
 
 - [**Open CaptchaWorld**](https://github.com/MetaAgentX/OpenCaptchaWorld) ★ 92 · NeurIPS 2025 · *first author*<br>Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.
 - [**Next-Gen CAPTCHAs**](https://github.com/MetaAgentX/NextGen-CAPTCHAs) ★ 24 · ICML 2026 · *co-first author*<br>Scalable GUI-agent defense built on the cognitive gap between humans and agents.
+- [**FigMirror**](https://github.com/VILA-Lab/FigMirror) ★ 521 · open source · *contributor*<br>Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.
 
 **01 · Multimodal**
 
