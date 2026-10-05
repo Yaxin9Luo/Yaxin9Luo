@@ -18,7 +18,7 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
-  <img alt="Research map. 01 Efficiency (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs. 03 Post-training (2026 onward): FigMirror and AutoDesign, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
+  <img alt="Research map. 01 Multimodal (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs. 03 Post-training (2026 onward): FigMirror and AutoDesign, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
 </picture>
 
 ### Featured work
@@ -34,7 +34,7 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 - [**Open CaptchaWorld**](https://github.com/MetaAgentX/OpenCaptchaWorld) ★ 92 · NeurIPS 2025 · *first author*<br>Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.
 - [**Next-Gen CAPTCHAs**](https://github.com/MetaAgentX/NextGen-CAPTCHAs) ★ 24 · ICML 2026 · *co-first author*<br>Scalable GUI-agent defense built on the cognitive gap between humans and agents.
 
-**01 · Efficiency**
+**01 · Multimodal**
 
 - [**γ-MoD**](https://github.com/Yaxin9Luo/gamma-MoD) ★ 46 · ICLR 2025 · *first author*<br>Mixture-of-depth adaptation that skips redundant layers in multimodal LLMs.
 <!-- RESEARCH-IMPACT:END -->
