@@ -18,7 +18,7 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
-  <img alt="Research map. 01 Multimodal (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs, FigMirror. 03 Post-training (2026 onward): LongCat-2.5 (1.6T) and AutoDesign, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
+  <img alt="Research map. 01 Multimodal (2024-25): APL, γ-MoD, DViN. 02 Eval (2025-26): Open CaptchaWorld, Next-Gen CAPTCHAs, FigMirror. 03 Post-training (2026 onward): AutoDesign, followed by LongCat-2.5, where the model and its harness improve together." src="assets/map-light.svg" width="100%">
 </picture>
 
 ### Featured work
