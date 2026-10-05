@@ -11,9 +11,9 @@
 
 > **Now** · Research intern at Meituan M17 LongCat. Open to research collaboration.
 
-ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work on one question: how do we get agents to do long, expert work, such as designing a poster or a slide deck, and keep getting better at it? My answer is to post-train the model and engineer its harness together.
+ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work on one question: how do we get agents to do long, expert work, currently focus on artifact design tasks, and how to keep agents getting better at it? My answer is to post-train the model and co-evolve its harness together.
 
-后训练面向长程专家工作的智能体：模型与它周围的 harness，一起进化。
+后训练面向长程agentic任务（目前focus on artifact design）的智能体：模型与它周围的 harness，一起进化。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
