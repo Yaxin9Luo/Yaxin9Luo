@@ -26,7 +26,7 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 <!-- RESEARCH-IMPACT:START -->
 **03 · Post-training**
 
-- [**AutoDesign**](https://github.com/Yaxin9Luo/AutoDesign) ★ 231 · arXiv 2026 · *first author*<br>Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.
+- [**AutoDesign**](https://github.com/Yaxin9Luo/AutoDesign) ★ 232 · arXiv 2026 · *first author*<br>Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.
 - [**FigMirror**](https://github.com/VILA-Lab/FigMirror) ★ 521 · open source · *contributor*<br>Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.
 
 **02 · Eval**
