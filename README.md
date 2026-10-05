@@ -56,3 +56,11 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 Abstracts, figures and co-authors on the [homepage](https://yaxin9luo.github.io/#section/publications).
 </details>
 <!-- PUBLICATIONS:END -->
+
+<!-- WEBSITE-MASCOT:START -->
+<p align="center">
+  <a href="https://yaxin9luo.github.io/">
+    <img src="assets/website-guide-mascot.png" alt="To My Website" width="210">
+  </a>
+</p>
+<!-- WEBSITE-MASCOT:END -->
