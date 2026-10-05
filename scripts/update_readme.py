@@ -38,6 +38,8 @@ def get_json(url: str, token: str | None = None) -> object:
 def fetch_stars(featured: list[dict], token: str | None) -> dict[str, int]:
     stars = {}
     for item in featured:
+        if not item.get("repo"):
+            continue
         data = get_json(f"https://api.github.com/repos/{item['repo']}", token)
         count = data.get("stargazers_count") if isinstance(data, dict) else None
         if not isinstance(count, int):
@@ -53,11 +55,11 @@ def render_featured(featured: list[dict], stars: dict[str, int]) -> str:
         if item["phase"] != phase:
             phase = item["phase"]
             lines += (["", f"**{phase}**", ""] if lines else [f"**{phase}**", ""])
-        n = stars[item["repo"]]
-        lines.append(
-            f"- [**{item['name']}**](https://github.com/{item['repo']}) ★ {n:,} · "
-            f"{item['venue']} · *{item['role']}*<br>{item['focus']}"
-        )
+        if item.get("repo"):
+            head = f"[**{item['name']}**](https://github.com/{item['repo']}) ★ {stars[item['repo']]:,}"
+        else:
+            head = f"**{item['name']}**"
+        lines.append(f"- {head} · {item['venue']} · *{item['role']}*<br>{item['focus']}")
     return "\n".join(lines)
 
 
@@ -124,7 +126,7 @@ def main() -> int:
         config = json.loads(DATA.read_text(encoding="utf-8"))
         featured = config["featured"]
         if args.offline:
-            stars = {f["repo"]: int(f["fallback_stars"]) for f in featured}
+            stars = {f["repo"]: int(f["fallback_stars"]) for f in featured if f.get("repo")}
             portfolio = None
         else:
             stars = fetch_stars(featured, os.environ.get("GITHUB_TOKEN"))
@@ -148,7 +150,8 @@ def main() -> int:
         return 1
     if not args.offline:  # keep fallbacks current so an offline run never writes stale numbers
         for f in featured:
-            f["fallback_stars"] = stars[f["repo"]]
+            if f.get("repo"):
+                f["fallback_stars"] = stars[f["repo"]]
         DATA.write_text(json.dumps(config, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     README.write_text(new, encoding="utf-8")
     print("README updated")

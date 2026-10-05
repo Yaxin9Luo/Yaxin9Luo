@@ -13,12 +13,10 @@
     },
     {
       "phase": "03 · Post-training",
-      "name": "FigMirror",
-      "repo": "VILA-Lab/FigMirror",
-      "venue": "open source",
-      "role": "contributor",
-      "focus": "Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.",
-      "fallback_stars": 521
+      "name": "LongCat-2.5",
+      "venue": "Meituan M17 · 1.6T-parameter model",
+      "role": "post-training contributor",
+      "focus": "Large-scale post-training for agentic design: harness design, trajectory collection, Mid-Training, SFT and RFT."
     },
     {
       "phase": "02 · Eval",
@@ -37,6 +35,15 @@
       "role": "co-first author",
       "focus": "Scalable GUI-agent defense built on the cognitive gap between humans and agents.",
       "fallback_stars": 24
+    },
+    {
+      "phase": "02 · Eval",
+      "name": "FigMirror",
+      "repo": "VILA-Lab/FigMirror",
+      "venue": "open source",
+      "role": "contributor",
+      "focus": "Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.",
+      "fallback_stars": 521
     },
     {
       "phase": "01 · Multimodal",
