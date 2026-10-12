@@ -9,7 +9,7 @@
       "venue": "arXiv 2026",
       "role": "first author",
       "focus": "Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.",
-      "fallback_stars": 232
+      "fallback_stars": 239
     },
     {
       "phase": "03 · Post-training",
@@ -34,7 +34,7 @@
       "venue": "ICML 2026",
       "role": "co-first author",
       "focus": "Scalable GUI-agent defense built on the cognitive gap between humans and agents.",
-      "fallback_stars": 24
+      "fallback_stars": 25
     },
     {
       "phase": "02 · Eval",
