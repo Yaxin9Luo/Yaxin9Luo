@@ -26,14 +26,14 @@ ML PhD student at **MBZUAI** (VILA Lab, advised by Prof. Zhiqiang Shen). I work 
 <!-- RESEARCH-IMPACT:START -->
 **03 · Post-training**
 
-- [**AutoDesign**](https://github.com/Yaxin9Luo/AutoDesign) ★ 239 · arXiv 2026 · *first author*<br>Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.
+- [**AutoDesign**](https://github.com/Yaxin9Luo/AutoDesign) ★ 246 · arXiv 2026 · *first author*<br>Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.
 - **LongCat-2.5** · Meituan M17 · 1.6T-parameter model · *post-training contributor*<br>Large-scale post-training for agentic design: harness design, trajectory collection, Mid-Training, SFT and RFT.
 
 **02 · Eval**
 
-- [**Open CaptchaWorld**](https://github.com/MetaAgentX/OpenCaptchaWorld) ★ 92 · NeurIPS 2025 · *first author*<br>Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.
-- [**Next-Gen CAPTCHAs**](https://github.com/MetaAgentX/NextGen-CAPTCHAs) ★ 25 · ICML 2026 · *co-first author*<br>Scalable GUI-agent defense built on the cognitive gap between humans and agents.
-- [**FigMirror**](https://github.com/VILA-Lab/FigMirror) ★ 521 · open source · *contributor*<br>Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.
+- [**Open CaptchaWorld**](https://github.com/MetaAgentX/OpenCaptchaWorld) ★ 94 · NeurIPS 2025 · *first author*<br>Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.
+- [**Next-Gen CAPTCHAs**](https://github.com/MetaAgentX/NextGen-CAPTCHAs) ★ 27 · ICML 2026 · *co-first author*<br>Scalable GUI-agent defense built on the cognitive gap between humans and agents.
+- [**FigMirror**](https://github.com/VILA-Lab/FigMirror) ★ 530 · open source · *contributor*<br>Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.
 
 **01 · Multimodal**
 
