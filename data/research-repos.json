@@ -9,7 +9,7 @@
       "venue": "arXiv 2026",
       "role": "first author",
       "focus": "Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.",
-      "fallback_stars": 246
+      "fallback_stars": 253
     },
     {
       "phase": "03 · Post-training",
@@ -25,7 +25,7 @@
       "venue": "NeurIPS 2025",
       "role": "first author",
       "focus": "Interactive web benchmark for multimodal LLM agents: 20 CAPTCHA types, 225 tasks.",
-      "fallback_stars": 94
+      "fallback_stars": 95
     },
     {
       "phase": "02 · Eval",
@@ -34,7 +34,7 @@
       "venue": "ICML 2026",
       "role": "co-first author",
       "focus": "Scalable GUI-agent defense built on the cognitive gap between humans and agents.",
-      "fallback_stars": 27
+      "fallback_stars": 30
     },
     {
       "phase": "02 · Eval",
@@ -43,7 +43,7 @@
       "venue": "open source",
       "role": "contributor",
       "focus": "Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.",
-      "fallback_stars": 530
+      "fallback_stars": 547
     },
     {
       "phase": "01 · Multimodal",
