@@ -9,7 +9,7 @@
       "venue": "arXiv 2026",
       "role": "first author",
       "focus": "Meta-harness optimization for long-horizon agentic design: editable posters, slides, webpages and videos.",
-      "fallback_stars": 255
+      "fallback_stars": 258
     },
     {
       "phase": "03 · Post-training",
@@ -43,7 +43,7 @@
       "venue": "open source",
       "role": "contributor",
       "focus": "Reference-driven plotting agents that turn your data into editable Matplotlib in a paper's figure style.",
-      "fallback_stars": 559
+      "fallback_stars": 568
     },
     {
       "phase": "01 · Multimodal",
